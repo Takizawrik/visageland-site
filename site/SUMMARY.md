@@ -8,6 +8,7 @@
 * [F.A.Q.](informaciya/f.a.q..md)
 * [Команды](informaciya/komandy.md)
 * [Модификации](informaciya/modifikacii.md)
+* [Список терминов](informaciya/spisok-terminov.md)
 
 ## Игровые механики
 
