@@ -9,7 +9,7 @@ icon: circle-question
 
 <summary><strong>Есть ли карта сервера?</strong></summary>
 
-Да, есть: [https://visageland.dynmap.xyz/#world:0:0:0:2250:0:0:0:0:perspective](https://visageland.dynmap.xyz/#world:0:0:0:2250:0:0:0:0:perspective)
+Да, есть: [http://31.77.147.68:25570/#world:-4629:0:-5995:968:0:0:0:0:perspective](http://31.77.147.68:25570/#world:-4629:0:-5995:968:0:0:0:0:perspective)
 
 </details>
 
@@ -35,7 +35,7 @@ icon: circle-question
 
 <summary><strong>Какие размеры мира?</strong></summary>
 
-Размер мира 8000 на 8000 блоков
+Размер мира 10000 на 10000 блоков
 
 </details>
 

@@ -17,8 +17,9 @@
 * [Музыкальные Пластинки](muzykalnye-plastinki.md)
 * [Чаты Сервера](chaty-servera.md)
 * [Уникальные Крафты](unikalnye-krafty.md)
-* [Напитки](napitki.md)
+* [Brevery](brevery/README.md)
+  * [Кастомные рецепты](brevery/kastomnye-recepty.md)
 
 ## Поддержка сервера&#x20;
 
-* [Спонсор+](podderzhka-servera/sponsor+.md)
+* [Спонсор](podderzhka-servera/sponsor.md)
