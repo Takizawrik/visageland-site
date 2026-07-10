@@ -51,7 +51,7 @@ icon: memo
 
 {% hint style="info" %}
 **Исключения для пункта 2.7** — разрешено использование:\
-`GammaUtils`, `MiniMap`, `Litematica( кроме printer)`, `ReplayMod`, `AutoClicker`, `Zoomify`, `LowFire`, `LowItems`
+`GammaUtils`, `MiniMap`, `Litematica( кроме printer)`, `ReplayMod`, `Zoomify`, `LowFire`, `LowItems`
 {% endhint %}
 
 ***
