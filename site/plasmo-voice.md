@@ -13,7 +13,8 @@ icon: microphone
 4\. Готово!\
 5\. Чтобы открыть меню мода - нужно нажать кнопку **V**.\
 \
-**Ссылка на мод** - [https://plasmovoice.com](https://plasmovoice.com)
+**Ссылка на мод** - [клик](https://plasmovoice.com/)
 
 \
 <br>
+
