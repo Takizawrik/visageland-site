@@ -9,7 +9,7 @@ icon: circle-question
 
 <summary><strong>Есть ли карта сервера?</strong></summary>
 
-Да, есть: [http://31.77.147.68:25570/#world:-4629:0:-5995:968:0:0:0:0:perspective](http://31.77.147.68:25570/#world:-4629:0:-5995:968:0:0:0:0:perspective)
+Да, есть: [клик](http://31.77.147.68:25570/#world:-4629:0:-5995:968:0:0:0:0:perspective)
 
 </details>
 

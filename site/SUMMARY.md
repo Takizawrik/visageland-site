@@ -24,3 +24,4 @@
 ## Поддержка сервера&#x20;
 
 * [Спонсор](podderzhka-servera/sponsor.md)
+* [Значки](podderzhka-servera/znachki.md)
