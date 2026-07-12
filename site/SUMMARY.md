@@ -26,3 +26,10 @@
 * [Спонсор](podderzhka-servera/sponsor.md)
 * [Значки](podderzhka-servera/znachki.md)
 * [Кастомные напитки](podderzhka-servera/kastomnye-napitki.md)
+* [Разблокировка](podderzhka-servera/razblokirovka.md)
+
+## Команда проекта
+
+***
+
+* [Администрация](administraciya.md)
