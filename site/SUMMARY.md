@@ -25,3 +25,4 @@
 
 * [Спонсор](podderzhka-servera/sponsor.md)
 * [Значки](podderzhka-servera/znachki.md)
+* [Кастомные напитки](podderzhka-servera/kastomnye-napitki.md)
