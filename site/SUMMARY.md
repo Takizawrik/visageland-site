@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Добро пожаловать на Visage Land](README.md)
+* [Добро пожаловать на Alfhoria](README.md)
 
 ## Информация
 
@@ -27,9 +27,3 @@
 * [Значки](podderzhka-servera/znachki.md)
 * [Кастомные напитки](podderzhka-servera/kastomnye-napitki.md)
 * [Разблокировка](podderzhka-servera/razblokirovka.md)
-
-## Команда проекта
-
-***
-
-* [Администрация](administraciya.md)
