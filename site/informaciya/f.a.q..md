@@ -17,7 +17,7 @@ icon: circle-question
 
 <summary><strong>Беслатная ли проходка?</strong></summary>
 
-Бесплатная. Нужно только зайти на[ дискорд сервер](https://discord.gg/GykZzhNzzt)(клик) и связать аккаунты.
+Бесплатная. Нужно только зайти на[ дискорд сервер](https://discord.gg/GykZzhNzzt) и заполнить заявку.
 
 </details>
 
@@ -35,7 +35,7 @@ icon: circle-question
 
 <summary><strong>Какие размеры мира?</strong></summary>
 
-Размер мира 10000 на 10000 блоков
+Размер мира 15000x15000 блоков
 
 </details>
 
