@@ -4,7 +4,7 @@
 
 ## Информация
 
-* [Правила](informaciya/pravila.md)
+* [📜 ГЛАВНЫЙ СВОД ПРАВИЛ ALFHORIA](informaciya/glavnyi-svod-pravil-alfhoria.md)
 * [F.A.Q.](informaciya/f.a.q..md)
 * [Команды](informaciya/komandy.md)
 * [Модификации](informaciya/modifikacii.md)
