@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Alfhoria
+  structure:
+    - type: space
+      key: space-1
+      title: Alfhoria
+      path: visage-land
+      default: true
+      content:
+        directory: ./site
+        language: ru
