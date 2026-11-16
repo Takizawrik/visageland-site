@@ -12,8 +12,6 @@
 
 ## Игровые механики
 
-***
-
 * [Plasmo Voice](plasmo-voice.md)
 * [Музыкальные Пластинки](muzykalnye-plastinki.md)
 * [Чаты Сервера](chaty-servera.md)
@@ -21,7 +19,7 @@
 * [Brevery](brevery/README.md)
   * [Кастомные рецепты](brevery/kastomnye-recepty.md)
 
-## Поддержка сервера&#x20;
+## Поддержка сервера
 
 * [Спонсор](podderzhka-servera/sponsor.md)
 * [Значки](podderzhka-servera/znachki.md)
